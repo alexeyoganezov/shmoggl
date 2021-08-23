@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=shmoggl
+Exec=shmoggl
+Icon=com.github.alexeyoganezov.shmoggl
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

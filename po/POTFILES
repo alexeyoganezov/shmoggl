@@ -1,0 +1,7 @@
+data/com.github.alexeyoganezov.shmoggl.desktop.in
+data/com.github.alexeyoganezov.shmoggl.appdata.xml.in
+data/com.github.alexeyoganezov.shmoggl.gschema.xml
+src/shmoggl-window.ui
+src/main.c
+src/shmoggl-window.c
+

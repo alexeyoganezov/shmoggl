@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/github/alexeyoganezov/shmoggl">
+    <file>shmoggl-window.ui</file>
+    <file>shmoggl-task-view.ui</file>
+    <file>shmoggl-time-slice-view.ui</file>
+  </gresource>
+</gresources>
